@@ -1,2 +1,2 @@
 Archivo de prueba.txt
-Rama de godot (interfaces y minijuegos).
+Rama de blender (Entorno en tercera dimensión).
