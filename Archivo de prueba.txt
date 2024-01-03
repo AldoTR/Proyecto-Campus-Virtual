@@ -1,2 +1,2 @@
 Archivo de prueba.txt
-Rama de blender (Entorno en tercera dimensión).
+Rama de desarrollo.
