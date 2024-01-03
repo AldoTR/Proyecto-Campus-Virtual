@@ -1,2 +1,2 @@
 Archivo de prueba.txt
-Rama de desarrollo.
+Rama de proyecto.
